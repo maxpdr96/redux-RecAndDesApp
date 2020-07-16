@@ -1,5 +1,9 @@
 # ReduxRecAndDesApp
 
+Projeto para estudo utilizando Angular com NgRx: Receitas e Despesas 
+
+## Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
