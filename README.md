@@ -8,13 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Template utilizado
 
-StarAdmin-Free-Bootstrap-Admin-Template
-(https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template)
+[StarAdmin-Free-Bootstrap-Admin-Template](https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template)
 
 ## Projeto
 
-Projeto criado por: Fernando Herrera
-(https://fernando-herrera.com/)
+Projeto criado por: [Fernando Herrera](https://fernando-herrera.com/)
 
 ## Development server
 
